@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Arial.spritefont</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb</Output>
+      <Time>2010-05-22T01:08:48.3741731-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gamefont.spritefont</Source>
+      <Name>Fonts\gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Fonts\gamefont.xnb</Output>
+      <Time>2010-05-22T01:08:48.3771733-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menufont.spritefont</Source>
+      <Name>Fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Fonts\menufont.xnb</Output>
+      <Time>2010-05-22T01:08:48.3841737-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\monofont.spritefont</Source>
+      <Name>Fonts\monofont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Fonts\monofont.xnb</Output>
+      <Time>2010-05-22T01:08:48.3871739-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\coloredplane.FBX</Source>
+      <Name>Models\coloredplane</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb</Output>
+      <Time>2010-05-22T01:08:48.406175-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\coloredplane_0.xml</Key>
+        <Value>2010-05-24T20:08:27.9318763-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\enemy.fbx</Source>
+      <Name>Models\enemy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\enemy.xnb</Output>
+      <Time>2010-05-22T01:08:48.4131754-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\enemy_0.xml</Key>
+        <Value>2010-05-24T20:08:28.1588893-04:00</Value>
+      </Dependency>
+      <Request>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\launcher_base.fbx</Source>
+      <Name>Models\launcher_base</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb</Output>
+      <Time>2010-05-22T01:08:48.5511833-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\launcher_base_0.xml</Key>
+        <Value>2010-05-24T20:08:28.5469115-04:00</Value>
+      </Dependency>
+      <Request>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\launcher_head.fbx</Source>
+      <Name>Models\launcher_head</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb</Output>
+      <Time>2010-05-22T01:08:48.5931857-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\launcher_head_0.xml</Key>
+        <Value>2010-05-24T20:08:28.7949257-04:00</Value>
+      </Dependency>
+      <Request>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\missile.fbx</Source>
+      <Name>Models\missile</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\missile.xnb</Output>
+      <Time>2010-05-22T01:08:48.6121867-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\missile_0.xml</Key>
+        <Value>2010-05-24T20:08:28.8489288-04:00</Value>
+      </Dependency>
+      <Request>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\missile_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\terrain.fbx</Source>
+      <Name>Models\terrain</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\terrain.xnb</Output>
+      <Time>2010-05-22T01:08:48.9702072-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\terrain_0.xml</Key>
+        <Value>2010-05-24T20:08:28.9789362-04:00</Value>
+      </Dependency>
+      <Request>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb</Request>
+      <Request>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\asteroid1.fbx</Source>
+      <Name>Models\asteroid1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\asteroid1.xnb</Output>
+      <Time>2010-05-22T01:08:48.4021747-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\asteroid1_0.xml</Key>
+        <Value>2010-05-24T20:08:29.8559864-04:00</Value>
+      </Dependency>
+      <Request>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\asteroid_brown_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\simpleWeapon.fbx</Source>
+      <Name>Models\simpleWeapon</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\simpleWeapon.xnb</Output>
+      <Time>2010-05-24T20:08:07.4147028-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\simpleWeapon_0.xml</Key>
+        <Value>2010-05-24T20:08:30.0209958-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\morito.x</Source>
+      <Name>Models\morito</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\morito.xnb</Output>
+      <Time>2010-05-22T01:08:48.6581894-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\morito_0.xml</Key>
+        <Value>2010-05-24T20:08:30.1410027-04:00</Value>
+      </Dependency>
+      <Request>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\morito_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\Asteroid.PNG</Source>
+      <Name>Textures\Asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\Asteroid.xnb</Output>
+      <Time>2010-05-22T01:08:50.1442744-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\asteroid_brown.jpg</Source>
+      <Name>Textures\asteroid_brown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\asteroid_brown.xnb</Output>
+      <Time>2010-05-22T01:08:50.1512748-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\background.png</Source>
+      <Name>Textures\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\background.xnb</Output>
+      <Time>2010-05-22T01:08:50.1812765-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\blank.png</Source>
+      <Name>Textures\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\blank.xnb</Output>
+      <Time>2010-05-22T01:08:50.1872768-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gradient.png</Source>
+      <Name>Textures\gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\gradient.xnb</Output>
+      <Time>2010-05-22T01:08:50.1972774-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Il-Wrath.PNG</Source>
+      <Name>Textures\Il-Wrath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\Il-Wrath.xnb</Output>
+      <Time>2010-05-22T01:08:50.2022777-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\planet.PNG</Source>
+      <Name>Textures\planet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\planet.xnb</Output>
+      <Time>2010-05-22T01:08:50.4162899-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\shipsprite1.png</Source>
+      <Name>Textures\shipsprite1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\shipsprite1.xnb</Output>
+      <Time>2010-05-22T01:08:50.4282906-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\space.png</Source>
+      <Name>Textures\space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\space.xnb</Output>
+      <Time>2010-05-22T01:08:50.434291-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Space_Background.PNG</Source>
+      <Name>Textures\Space_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\Space_Background.xnb</Output>
+      <Time>2010-05-22T01:08:50.4402913-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ur-Quan.PNG</Source>
+      <Name>Textures\Ur-Quan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\Ur-Quan.xnb</Output>
+      <Time>2010-05-22T01:08:50.4462917-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\morito.png</Source>
+      <Name>Textures\morito</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\morito.xnb</Output>
+      <Time>2010-05-22T01:08:50.4092895-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\menuBG.png</Source>
+      <Name>Textures\menuBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\menuBG.xnb</Output>
+      <Time>2010-05-22T01:08:50.2132783-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\leftHUD_Alive.png</Source>
+      <Name>Textures\leftHUD_Alive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\leftHUD_Alive.xnb</Output>
+      <Time>2010-05-22T01:08:50.207278-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\rightHud_Alive.png</Source>
+      <Name>Textures\rightHud_Alive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\rightHud_Alive.xnb</Output>
+      <Time>2010-05-22T01:08:50.4222903-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\cursor.png</Source>
+      <Name>Textures\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\cursor.xnb</Output>
+      <Time>2010-05-22T01:08:50.1922771-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\coloredplane.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\coloredplane_0.xml</Output>
+      <Time>2010-05-22T01:08:48.406175-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\enemy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\enemy_0.xml</Output>
+      <Time>2010-05-22T01:08:48.4131754-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\enemy.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb</Output>
+      <Time>2010-05-22T01:08:48.4201758-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\launcher_base.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\launcher_base_0.xml</Output>
+      <Time>2010-05-22T01:08:48.5511833-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\launcher.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb</Output>
+      <Time>2010-05-22T01:08:48.5331822-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\launcher_head.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\launcher_head_0.xml</Output>
+      <Time>2010-05-22T01:08:48.5931857-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\missile.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\missile_0.xml</Output>
+      <Time>2010-05-22T01:08:48.6121867-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\missile.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\missile_0.xnb</Output>
+      <Time>2010-05-22T01:08:48.6431885-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\terrain.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\terrain_0.xml</Output>
+      <Time>2010-05-22T01:08:48.9702072-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\terrain.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb</Output>
+      <Time>2010-05-22T01:08:50.1362739-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sunset.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb</Output>
+      <Time>2010-05-22T01:08:48.9622068-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroid1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\asteroid1_0.xml</Output>
+      <Time>2010-05-22T01:08:48.4021747-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\asteroid_brown.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\asteroid_brown_0.xnb</Output>
+      <Time>2010-05-22T01:08:50.1512748-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\simpleWeapon.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\simpleWeapon_0.xml</Output>
+      <Time>2010-05-24T20:08:07.4147028-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\morito.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\morito_0.xml</Output>
+      <Time>2010-05-22T01:08:48.6581894-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\morito.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\Textures\morito_0.xnb</Output>
+      <Time>2010-05-22T01:08:50.4092895-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\Content\</RootDirectory>
+      <LoggerRootDirectory>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito-RyansBranch\Morito\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-08-15T10:04:38.8316345-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

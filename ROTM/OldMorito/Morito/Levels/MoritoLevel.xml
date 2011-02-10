@@ -1,0 +1,285 @@
+<Level>
+  <Pieces>
+    <Morito.Asteroid>
+      <Position>
+        <Vector3 X="-72.3735046" Y="35.3458481" Z="0.67" />
+      </Position>
+      <Origin>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Origin>
+      <Rotation>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Rotation>
+      <ModelResourceName>Models\asteroid1</ModelResourceName>
+      <Mass>1</Mass>
+      <Velocity>
+        <Vector2 X="-0.297165781" Y="0.0411398932" />
+      </Velocity>
+      <Force>
+        <Vector2 X="0" Y="0" />
+      </Force>
+      <AllowFriction>false</AllowFriction>
+      <MaxHealth>10</MaxHealth>
+      <RespawnTime>5</RespawnTime>
+      <RespawnPoint>
+        <Vector3 X="-72.3735046" Y="35.3458481" Z="0.67" />
+      </RespawnPoint>
+      <RotationVelocity>
+        <Vector3 X="0.05890975" Y="0.0466289" Z="0.0723180249" />
+      </RotationVelocity>
+    </Morito.Asteroid>
+    <Morito.Asteroid>
+      <Position>
+        <Vector3 X="-71.3840942" Y="5.34015656" Z="0.67" />
+      </Position>
+      <Origin>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Origin>
+      <Rotation>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Rotation>
+      <ModelResourceName>Models\asteroid1</ModelResourceName>
+      <Mass>1</Mass>
+      <Velocity>
+        <Vector2 X="-0.192248434" Y="0.230305329" />
+      </Velocity>
+      <Force>
+        <Vector2 X="0" Y="0" />
+      </Force>
+      <AllowFriction>false</AllowFriction>
+      <MaxHealth>10</MaxHealth>
+      <RespawnTime>5</RespawnTime>
+      <RespawnPoint>
+        <Vector3 X="-71.3840942" Y="5.34015656" Z="0.67" />
+      </RespawnPoint>
+      <RotationVelocity>
+        <Vector3 X="0.06899796" Y="0.0605015233" Z="0.0110066757" />
+      </RotationVelocity>
+    </Morito.Asteroid>
+    <Morito.Asteroid>
+      <Position>
+        <Vector3 X="-71.5501" Y="36.30091" Z="0.67" />
+      </Position>
+      <Origin>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Origin>
+      <Rotation>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Rotation>
+      <ModelResourceName>Models\asteroid1</ModelResourceName>
+      <Mass>1</Mass>
+      <Velocity>
+        <Vector2 X="0.299195081" Y="0.0219617262" />
+      </Velocity>
+      <Force>
+        <Vector2 X="0" Y="0" />
+      </Force>
+      <AllowFriction>false</AllowFriction>
+      <MaxHealth>10</MaxHealth>
+      <RespawnTime>5</RespawnTime>
+      <RespawnPoint>
+        <Vector3 X="-71.5501" Y="36.30091" Z="0.67" />
+      </RespawnPoint>
+      <RotationVelocity>
+        <Vector3 X="0.0429665521" Y="0.0946888849" Z="0.009913564" />
+      </RotationVelocity>
+    </Morito.Asteroid>
+    <Morito.Asteroid>
+      <Position>
+        <Vector3 X="-70.09061" Y="32.12227" Z="0.67" />
+      </Position>
+      <Origin>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Origin>
+      <Rotation>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Rotation>
+      <ModelResourceName>Models\asteroid1</ModelResourceName>
+      <Mass>1</Mass>
+      <Velocity>
+        <Vector2 X="-0.0123521108" Y="-0.299745619" />
+      </Velocity>
+      <Force>
+        <Vector2 X="0" Y="0" />
+      </Force>
+      <AllowFriction>false</AllowFriction>
+      <MaxHealth>10</MaxHealth>
+      <RespawnTime>5</RespawnTime>
+      <RespawnPoint>
+        <Vector3 X="-70.09061" Y="32.12227" Z="0.67" />
+      </RespawnPoint>
+      <RotationVelocity>
+        <Vector3 X="0.08045814" Y="0.0204495937" Z="0.0195493251" />
+      </RotationVelocity>
+    </Morito.Asteroid>
+    <Morito.Asteroid>
+      <Position>
+        <Vector3 X="-70.26556" Y="5.94813538" Z="0.67" />
+      </Position>
+      <Origin>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Origin>
+      <Rotation>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Rotation>
+      <ModelResourceName>Models\asteroid1</ModelResourceName>
+      <Mass>1</Mass>
+      <Velocity>
+        <Vector2 X="-0.266736" Y="0.137302235" />
+      </Velocity>
+      <Force>
+        <Vector2 X="0" Y="0" />
+      </Force>
+      <AllowFriction>false</AllowFriction>
+      <MaxHealth>10</MaxHealth>
+      <RespawnTime>5</RespawnTime>
+      <RespawnPoint>
+        <Vector3 X="-70.26556" Y="5.94813538" Z="0.67" />
+      </RespawnPoint>
+      <RotationVelocity>
+        <Vector3 X="0.011471808" Y="0.07977741" Z="0.005006954" />
+      </RotationVelocity>
+    </Morito.Asteroid>
+    <Morito.Asteroid>
+      <Position>
+        <Vector3 X="-74.36514" Y="48.2748871" Z="0.67" />
+      </Position>
+      <Origin>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Origin>
+      <Rotation>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Rotation>
+      <ModelResourceName>Models\asteroid1</ModelResourceName>
+      <Mass>1</Mass>
+      <Velocity>
+        <Vector2 X="-0.207085684" Y="0.2170611" />
+      </Velocity>
+      <Force>
+        <Vector2 X="0" Y="0" />
+      </Force>
+      <AllowFriction>false</AllowFriction>
+      <MaxHealth>10</MaxHealth>
+      <RespawnTime>5</RespawnTime>
+      <RespawnPoint>
+        <Vector3 X="-74.36514" Y="48.2748871" Z="0.67" />
+      </RespawnPoint>
+      <RotationVelocity>
+        <Vector3 X="0.0461355522" Y="0.09350444" Z="0.034104906" />
+      </RotationVelocity>
+    </Morito.Asteroid>
+    <Morito.Asteroid>
+      <Position>
+        <Vector3 X="-74.02254" Y="3.752369" Z="0.67" />
+      </Position>
+      <Origin>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Origin>
+      <Rotation>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Rotation>
+      <ModelResourceName>Models\asteroid1</ModelResourceName>
+      <Mass>1</Mass>
+      <Velocity>
+        <Vector2 X="-0.06696173" Y="-0.2924314" />
+      </Velocity>
+      <Force>
+        <Vector2 X="0" Y="0" />
+      </Force>
+      <AllowFriction>false</AllowFriction>
+      <MaxHealth>10</MaxHealth>
+      <RespawnTime>5</RespawnTime>
+      <RespawnPoint>
+        <Vector3 X="-74.02254" Y="3.752369" Z="0.67" />
+      </RespawnPoint>
+      <RotationVelocity>
+        <Vector3 X="0.04491777" Y="0.0180127621" Z="0.09445538" />
+      </RotationVelocity>
+    </Morito.Asteroid>
+    <Morito.Asteroid>
+      <Position>
+        <Vector3 X="-74.42641" Y="47.8664474" Z="0.67" />
+      </Position>
+      <Origin>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Origin>
+      <Rotation>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Rotation>
+      <ModelResourceName>Models\asteroid1</ModelResourceName>
+      <Mass>1</Mass>
+      <Velocity>
+        <Vector2 X="0.224195182" Y="0.199340269" />
+      </Velocity>
+      <Force>
+        <Vector2 X="0" Y="0" />
+      </Force>
+      <AllowFriction>false</AllowFriction>
+      <MaxHealth>10</MaxHealth>
+      <RespawnTime>5</RespawnTime>
+      <RespawnPoint>
+        <Vector3 X="-74.42641" Y="47.8664474" Z="0.67" />
+      </RespawnPoint>
+      <RotationVelocity>
+        <Vector3 X="0.0755992457" Y="0.09358186" Z="0.0661705956" />
+      </RotationVelocity>
+    </Morito.Asteroid>
+    <Morito.Asteroid>
+      <Position>
+        <Vector3 X="-74.47701" Y="54.86693" Z="0.67" />
+      </Position>
+      <Origin>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Origin>
+      <Rotation>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Rotation>
+      <ModelResourceName>Models\asteroid1</ModelResourceName>
+      <Mass>1</Mass>
+      <Velocity>
+        <Vector2 X="-0.1806667" Y="-0.239498571" />
+      </Velocity>
+      <Force>
+        <Vector2 X="0" Y="0" />
+      </Force>
+      <AllowFriction>false</AllowFriction>
+      <MaxHealth>10</MaxHealth>
+      <RespawnTime>5</RespawnTime>
+      <RespawnPoint>
+        <Vector3 X="-74.47701" Y="54.86693" Z="0.67" />
+      </RespawnPoint>
+      <RotationVelocity>
+        <Vector3 X="0.0823242" Y="0.008859076" Z="0.04706242" />
+      </RotationVelocity>
+    </Morito.Asteroid>
+    <Morito.Asteroid>
+      <Position>
+        <Vector3 X="-70.3247757" Y="20.462944" Z="0.67" />
+      </Position>
+      <Origin>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Origin>
+      <Rotation>
+        <Vector3 X="0" Y="0" Z="0" />
+      </Rotation>
+      <ModelResourceName>Models\asteroid1</ModelResourceName>
+      <Mass>1</Mass>
+      <Velocity>
+        <Vector2 X="0.0978440642" Y="-0.283595741" />
+      </Velocity>
+      <Force>
+        <Vector2 X="0" Y="0" />
+      </Force>
+      <AllowFriction>false</AllowFriction>
+      <MaxHealth>10</MaxHealth>
+      <RespawnTime>5</RespawnTime>
+      <RespawnPoint>
+        <Vector3 X="-70.3247757" Y="20.462944" Z="0.67" />
+      </RespawnPoint>
+      <RotationVelocity>
+        <Vector3 X="0.008282162" Y="0.0410914347" Z="0.09949546" />
+      </RotationVelocity>
+    </Morito.Asteroid>
+  </Pieces>
+  <BackgroundTexture>Textures\Space_BackGround</BackgroundTexture>
+</Level>

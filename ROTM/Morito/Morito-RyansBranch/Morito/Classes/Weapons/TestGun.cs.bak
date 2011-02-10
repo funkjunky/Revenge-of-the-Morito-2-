@@ -1,0 +1,56 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Microsoft.Xna.Framework;
+using Morito.Screens;
+using Morito.Utilities;
+
+namespace Morito
+{
+    public class TestGun : AttachedWeapon
+    {
+        double _fireRate = 0.2d;
+        double _previousShot = 0;
+
+        #region Constructors
+        public TestGun(GameScreen gameScreen, Ship owner)
+            : base(gameScreen, owner)
+        {
+
+        }
+        #endregion
+
+        #region Public Methods
+        public override bool Fire(float fireAngle, GameTime gameTime)
+        {
+            if (gameTime.TotalRealTime.TotalSeconds < _previousShot + _fireRate)
+                return false;
+
+            _previousShot = gameTime.TotalRealTime.TotalSeconds;
+
+            Vector2 fireVector = Vector2Helper.FindVectorToAngle(fireAngle);
+
+            Vector2 bulletPosition = new Vector2(Owner.Position.X + (fireVector.X * 6f),
+                                                 Owner.Position.Y + (fireVector.Y * 6f));
+
+            Bullet newBullet = new Bullet(GameScreen, this, gameTime.TotalRealTime.TotalSeconds, 1d)
+            {
+                Position2D = bulletPosition,
+                Velocity = fireVector * 1.1f,
+                ReferenceCamera = GameScreen.Camera1,
+                ObjectModel = GameScreen.BulletModel
+            };
+            this.FiredAmmo.Add(newBullet);
+            GameScreen.Collisions.Collidables.Add(newBullet);
+            GameScreen.ObjectsToBeWrapped.Add(newBullet);
+            GameScreen.Level.Pieces.Add(newBullet);
+            return true;
+        }
+
+        public override void Collide(isCollidable fellowCollider)
+        {
+        }
+        #endregion
+    }
+}

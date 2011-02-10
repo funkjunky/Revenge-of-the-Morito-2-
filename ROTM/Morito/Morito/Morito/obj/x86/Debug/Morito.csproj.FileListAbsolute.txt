@@ -1,0 +1,178 @@
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\menufont.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\monofont.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\enemy.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\missile.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\terrain.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\asteroid1.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\morito.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Asteroid.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\asteroid_brown.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\blank.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\gradient.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Il-Wrath.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\planet.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\shipsprite1.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\space.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Space_Background.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Ur-Quan.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\morito.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\leftHUD_Alive.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\rightHud_Alive.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\cursor.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\missile_0.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\asteroid_brown_0.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Textures\morito_0.xnb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Content\Levels\MoritoLevel.xml
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Morito.exe
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\bin\x86\Debug\Morito.pdb
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\obj\x86\Debug\Morito.exe
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\obj\x86\Debug\Morito.pdb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\gamefont.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\menufont.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\monofont.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\enemy.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\missile.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\terrain.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\asteroid1.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\morito.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Asteroid.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\asteroid_brown.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\background.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\blank.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\gradient.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Il-Wrath.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\planet.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\shipsprite1.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\space.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Space_Background.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Ur-Quan.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\morito.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\leftHUD_Alive.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\rightHud_Alive.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\cursor.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\missile_0.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\asteroid_brown_0.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\morito_0.xnb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Audio\GameAudio.xgs
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Levels\MoritoLevel.xml
+F:\RyansROTM\Morito\bin\x86\Debug\Morito.exe
+F:\RyansROTM\Morito\bin\x86\Debug\Morito.pdb
+F:\RyansROTM\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RyansROTM\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RyansROTM\Morito\obj\x86\Debug\Morito.exe
+F:\RyansROTM\Morito\obj\x86\Debug\Morito.pdb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\gamefont.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\menufont.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Fonts\monofont.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\enemy.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\missile.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\terrain.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\asteroid1.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\morito.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Asteroid.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\asteroid_brown.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\background.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\blank.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\gradient.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Il-Wrath.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\planet.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\shipsprite1.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\space.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Space_Background.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\Ur-Quan.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\morito.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\leftHUD_Alive.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\rightHud_Alive.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\cursor.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\missile_0.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\asteroid_brown_0.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\morito_0.xnb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Audio\GameAudio.xgs
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+J:\RyansROTM\Morito\bin\x86\Debug\Content\Levels\MoritoLevel.xml
+J:\RyansROTM\Morito\bin\x86\Debug\Morito.exe
+J:\RyansROTM\Morito\bin\x86\Debug\Morito.pdb
+J:\RyansROTM\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\RyansROTM\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\RyansROTM\Morito\obj\x86\Debug\Morito.exe
+J:\RyansROTM\Morito\obj\x86\Debug\Morito.pdb
+F:\RyansROTM\Morito\bin\x86\Debug\Content\Textures\menuBG.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\obj\x86\Debug\Morito.exe
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\obj\x86\Debug\Morito.pdb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Fonts\menufont.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Fonts\monofont.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\enemy.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\missile.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\terrain.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\asteroid1.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\morito.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\Asteroid.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\asteroid_brown.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\background.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\blank.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\gradient.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\Il-Wrath.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\planet.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\shipsprite1.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\space.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\Space_Background.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\Ur-Quan.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\morito.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\menuBG.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\leftHUD_Alive.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\rightHud_Alive.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\cursor.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\missile_0.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\asteroid_brown_0.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Textures\morito_0.xnb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Content\Levels\MoritoLevel.xml
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Morito.exe
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\bin\x86\Debug\Morito.pdb

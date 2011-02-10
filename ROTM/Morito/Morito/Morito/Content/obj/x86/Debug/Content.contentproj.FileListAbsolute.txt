@@ -1,0 +1,8 @@
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\funk-macbook\Desktop\RyansROTM\Morito\Content\obj\x86\Debug\Audio\GameAudio.xml
+F:\RyansROTM\Morito\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RyansROTM\Morito\Content\obj\x86\Debug\Audio\GameAudio.xml
+J:\RyansROTM\Morito\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\RyansROTM\Morito\Content\obj\x86\Debug\Audio\GameAudio.xml
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Morito_Latest\Morito\Content\obj\x86\Debug\Audio\GameAudio.xml

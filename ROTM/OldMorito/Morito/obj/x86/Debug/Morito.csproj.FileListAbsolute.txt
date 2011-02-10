@@ -1,0 +1,300 @@
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\bin\x86\Debug\Morito.exe
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\bin\x86\Debug\Morito.pdb
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\obj\x86\Debug\Morito.exe
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\obj\x86\Debug\Morito.pdb
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\bin\x86\Debug\Content\Texture\Asteroid.xnb
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\bin\x86\Debug\Content\Texture\Il-Wrath.xnb
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\bin\x86\Debug\Content\Texture\planet.xnb
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\bin\x86\Debug\Content\Texture\shipsprite1.xnb
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\bin\x86\Debug\Content\Texture\space.xnb
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\bin\x86\Debug\Content\Texture\Space_Background.xnb
+D:\Fall-Winter 2008-2009\Giga\Presentations\Demo's\Morito\Morito\bin\x86\Debug\Content\Texture\Ur-Quan.xnb
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Asteroid.xnb
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Il-Wrath.xnb
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\planet.xnb
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\shipsprite1.xnb
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\space.xnb
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Space_Background.xnb
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Ur-Quan.xnb
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Morito.exe
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Morito.pdb
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Morito.exe
+C:\Users\Jay\Desktop\giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Morito.pdb
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Asteroid.xnb
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Il-Wrath.xnb
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\planet.xnb
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\shipsprite1.xnb
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\space.xnb
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Space_Background.xnb
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Ur-Quan.xnb
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Morito.exe
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Morito.pdb
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Morito.exe
+C:\Documents and Settings\funk\Desktop\Giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Morito.pdb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Asteroid.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Il-Wrath.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\planet.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\shipsprite1.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\space.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Space_Background.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Ur-Quan.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Morito.exe
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Morito.pdb
+F:\giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Morito.exe
+F:\giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Morito.pdb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\enemy.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\missile.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\terrain.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\morito.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\missile_0.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb
+F:\giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Fonts\menufont.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\enemy.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\missile.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\terrain.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\morito.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\missile_0.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Morito.exe
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Morito.pdb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\obj\x86\Debug\Morito.exe
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\obj\x86\Debug\Morito.pdb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Texture\Asteroid.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Texture\Il-Wrath.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Texture\planet.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Texture\shipsprite1.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Texture\space.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Texture\Space_Background.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Texture\Ur-Quan.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Texture\background.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Texture\blank.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Texture\gradient.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Fonts\menufont.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\enemy.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\missile.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\terrain.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\asteroid1.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\morito.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\missile_0.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Morito.exe
+C:\Documents and Settings\Admin\Desktop\Morito\bin\x86\Debug\Morito.pdb
+C:\Documents and Settings\Admin\Desktop\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Admin\Desktop\Morito\obj\x86\Debug\Morito.exe
+C:\Documents and Settings\Admin\Desktop\Morito\obj\x86\Debug\Morito.pdb
+D:\Giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Morito.exe
+D:\Giga\Projects\ROTM\Morito\Morito\obj\x86\Debug\Morito.pdb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Asteroid.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Il-Wrath.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\planet.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\shipsprite1.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\space.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Space_Background.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\Ur-Quan.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\background.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\blank.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Texture\gradient.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\asteroid.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Fonts\gamefont.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Fonts\menufont.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\enemy.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\missile.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\terrain.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\asteroid1.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\morito.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\missile_0.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Morito.exe
+D:\Giga\Projects\ROTM\Morito\Morito\bin\x86\Debug\Morito.pdb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Models\asteroid1.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\Asteroid.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\asteroid_brown.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\background.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\blank.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\gradient.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\Il-Wrath.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\planet.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\shipsprite1.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\space.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\Space_Background.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\Ur-Quan.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\asteroid_brown_0.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\morito.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Textures\morito_0.xnb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Documents and Settings\Admin\Desktop\Rotm Work\Morito\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Fonts\menufont.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\enemy.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\missile.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\terrain.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\asteroid1.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\morito.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\Asteroid.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\asteroid_brown.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\background.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\blank.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\gradient.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\Il-Wrath.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\planet.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\shipsprite1.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\space.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\Space_Background.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\Ur-Quan.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\morito.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\missile_0.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\asteroid_brown_0.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Textures\morito_0.xnb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Content\Levels\MoritoLevel.xml
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Morito.exe
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\bin\x86\Debug\Morito.pdb
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\obj\x86\Debug\Morito.exe
+C:\Documents and Settings\jay\My Documents\GIGA\Projects\ROTM\Morito\Morito\obj\x86\Debug\Morito.pdb
+E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Developer\GiGA_fortress\Projects\ROTM\Morito\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Fonts\menufont.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\enemy.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\missile.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\terrain.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\asteroid1.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\morito.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\Asteroid.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\asteroid_brown.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\blank.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\gradient.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\Il-Wrath.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\planet.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\shipsprite1.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\space.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\Space_Background.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\Ur-Quan.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\morito.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\leftHUD_Alive.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\leftHUD_Dead.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\rightHud_Alive.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\rightHud_Dead.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\cursor.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\missile_0.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\asteroid_brown_0.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Textures\morito_0.xnb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Content\Levels\MoritoLevel.xml
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Morito.exe
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\bin\x86\Debug\Morito.pdb
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\obj\x86\Debug\Morito.exe
+C:\Users\xbox.CSPC1\Desktop\ROTM\Morito\obj\x86\Debug\Morito.pdb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Fonts\menufont.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\coloredplane.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\enemy.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\launcher_base.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\launcher_head.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\missile.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\terrain.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\asteroid1.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\morito.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\Asteroid.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\asteroid_brown.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\background.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\blank.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\gradient.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\Il-Wrath.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\planet.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\shipsprite1.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\space.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\Space_Background.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\Ur-Quan.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\morito.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\leftHUD_Alive.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\rightHud_Alive.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\cursor.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\enemy_0.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\launcher_0.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\missile_0.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\terrain_0.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Models\sunset_0.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\asteroid_brown_0.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Textures\morito_0.xnb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Levels\MoritoLevel.xml
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Morito.exe
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Morito.pdb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\obj\x86\Debug\Morito.exe
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\obj\x86\Debug\Morito.pdb
+C:\Documents and Settings\User\Desktop\New Rotm\Morito\bin\x86\Debug\Content\Fonts\monofont.xnb

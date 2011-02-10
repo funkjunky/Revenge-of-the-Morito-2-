@@ -1,0 +1,7 @@
+﻿
+namespace Morito
+{
+    interface isStatistical
+    {
+    }
+}

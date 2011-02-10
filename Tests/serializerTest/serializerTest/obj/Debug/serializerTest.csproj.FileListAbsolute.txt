@@ -1,0 +1,5 @@
+E:\Developer\GiGA_fortress\Projects\Tests\serializerTest\serializerTest\bin\Debug\serializerTest.exe
+E:\Developer\GiGA_fortress\Projects\Tests\serializerTest\serializerTest\bin\Debug\serializerTest.pdb
+E:\Developer\GiGA_fortress\Projects\Tests\serializerTest\serializerTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Developer\GiGA_fortress\Projects\Tests\serializerTest\serializerTest\obj\Debug\serializerTest.exe
+E:\Developer\GiGA_fortress\Projects\Tests\serializerTest\serializerTest\obj\Debug\serializerTest.pdb
